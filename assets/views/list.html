@@ -1,0 +1,10 @@
+<div class="item"
+     ng-repeat="picture in pictures | startFrom: startFrom | limitTo: perPage"
+     ng-show="pictures">
+    <a href="#/item/{{picture.shortUrl}}"><img ng-src="{{picture.thumb}}"/></a>
+</div>
+<div class="pagination">
+    <a ng-click="prev()">&larr;</a>
+    <a ng-click="next()">&rarr;</a>
+</div>
+<div ng-view class="show-item"></div>

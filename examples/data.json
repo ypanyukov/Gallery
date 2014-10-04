@@ -1,0 +1,65 @@
+{
+    "items": [
+        {
+            "src": "./images/art-koleso-monstr-schupalca.jpg",
+            "thumb": "./images/thumbs/art-koleso-monstr-schupalca.jpg",
+            "description": "Image 1",
+            "shortUrl": "shupalca"
+        },
+        {
+            "src": "./images/cvety-cvetochki-cvetochek-5356.jpg",
+            "thumb": "./images/thumbs/cvety-cvetochki-cvetochek-5356.jpg",
+            "description": "Image 2"
+        },
+        {
+            "src": "./images/derevo-figura-voron-lampochka.jpg",
+            "thumb": "./images/thumbs/derevo-figura-voron-lampochka.jpg",
+            "description": "Image 3"
+        },
+        {
+            "src": "./images/devusha-vzglyad-lico-glaza.jpg",
+            "thumb": "./images/thumbs/devusha-vzglyad-lico-glaza.jpg",
+            "description": "Image 4"
+        },
+        {
+            "src": "./images/ford-atlas-c-forl-dzhip.jpg",
+            "thumb": "./images/thumbs/ford-atlas-c-forl-dzhip.jpg",
+            "description": "Image 5"
+        },
+        {
+            "src": "./images/krugi-puzyri-siniy-fon.jpg",
+            "thumb": "./images/thumbs/krugi-puzyri-siniy-fon.jpg",
+            "description": "Image 6"
+        },
+        {
+            "src": "./images/lada-samara-21099-riva-2105.jpg",
+            "thumb": "./images/thumbs/lada-samara-21099-riva-2105.jpg",
+            "description": "Image 7"
+        },
+        {
+            "src": "./images/les-derevya-zakat-solnce-vid.jpg",
+            "thumb": "./images/thumbs/les-derevya-zakat-solnce-vid.jpg",
+            "description": "Image 8"
+        },
+        {
+            "src": "./images/nature-sunset-flowers-meadow.jpg",
+            "thumb": "./images/thumbs/nature-sunset-flowers-meadow.jpg",
+            "description": "Image 9"
+        },
+        {
+            "src": "./images/new-york-new-york-city-nyc-7716.jpg",
+            "thumb": "./images/thumbs/new-york-new-york-city-nyc-7716.jpg",
+            "description": "Image 10"
+        },
+        {
+            "src": "./images/svet-cvet-fon-oboi-5417.jpg",
+            "thumb": "./images/thumbs/svet-cvet-fon-oboi-5417.jpg",
+            "description": "Image 11"
+        },
+        {
+            "src": "./images/witch-hellouin-halloween.jpg",
+            "thumb": "./images/thumbs/witch-hellouin-halloween.jpg",
+            "description": "Image 12"
+        }
+    ]
+}

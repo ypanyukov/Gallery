@@ -1,0 +1,13 @@
+<div class="container" ng-click="returnToMain()">
+    <a href="#/item/{{prevPicLink}}" class="arrow"
+       ng-style="{width: arrowsWidth}"></a>
+
+    <div class="preview">
+        <a href="#/item/{{nextPicLink}}">
+            <img id="picPreviewImage" ng-src="{{current.src}}" alt=""/>
+        </a>
+    </div>
+
+    <a href="#/item/{{nextPicLink}}" class="arrow"
+       ng-style="{width: arrowsWidth}"></a>
+</div>

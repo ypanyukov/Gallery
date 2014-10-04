@@ -1,0 +1,72 @@
+#picList {
+    width: 660px;
+    margin: 10px auto;
+    display: block;
+    overflow: hidden;
+}
+
+#picList div.item {
+    float: left;
+    margin: 20px;
+}
+
+#picList div.pagination {
+    text-align: center;
+}
+
+#picList div.pagination a {
+    font-size: 20px;
+    color: #000;
+    padding: 3px 6px;
+    display: inline-block;
+    text-decoration: none;
+    border: 1px solid #444;
+    cursor: pointer;
+}
+
+#picList div.pagination a:hover {
+    background-color: #777;
+}
+
+#picList div.show-item {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.95);
+}
+
+#picList div.show-item .container {
+    overflow: hidden;
+    width: 100%;
+    margin: 20px auto;
+    height: 100%;
+}
+
+#picList div.show-item .container div.preview {
+    float: left;
+}
+
+#picList div.show-item .container div.preview {
+    float: left;
+}
+
+#picList div.show-item .container div.preview a {
+    display: inline-block;
+}
+
+#picList div.show-item .container div.preview img {
+    margin: 0 auto;
+    height: 500px;
+}
+
+#picList div.show-item .container a.arrow {
+    width: 150px;
+    height: 500px;
+    float: left;
+}
+
+#picList div.show-item .container a.arrow:hover {
+    background-color: rgba(0, 0, 0, 0.58);
+}
